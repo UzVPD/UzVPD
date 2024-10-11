@@ -31,3 +31,5 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
 
 ### 📝 Additional info
 > Besides coding, I’m deeply intrigued by the future of **Web3**, **cryptocurrency**, and **forex market**. I'm always on the lookout for new technologies that disrupt traditional systems.
+
+<a href="https://app.daily.dev/vpdvlad"><img src="./devcard.png" width="356" alt="Vladislav's Dev Card"/></a>
