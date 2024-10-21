@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
   - In 2018 contribute to an online PvP mobile game on Unity [WarCars2](https://www.youtube.com/watch?v=wBhqHONNd2Y) (Project was closed 2 years ago).
 
 - 💻 **Technical Skills:**
-  - JavaScript, Vue, React, HTML, CSS, Vite
+  - JavaScript, TypeScript, React, Redux, HTML, CSS, Three.js
   - Node.js
  
 - 🌍 **Languages:**
