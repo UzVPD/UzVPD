@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
   - Developing a **Language Server** from scratch, providing real-time code intelligence such as conditional auto-completion using **TypeScript** and **Node.js**.
   
 - 🌱 **Education:**
-  - 🎓 Master of Computer Science (Westsächsischen Hochschule Zwickau) | *Oct 2021 - Oct 2024*
+  - 🎓 Master of Computer Science (Westsächsischen Hochschule Zwickau) | *Oct 2021 - Jan 2025*
   - 🎓 Bachelor of Software Engineering (American University of Central Asia) | *Sep 2016 - May 2020*
 
 - 💼 **Past Projects:**
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
   - In 2018 contribute to an online PvP mobile game on Unity [WarCars2](https://www.youtube.com/watch?v=wBhqHONNd2Y) (Project was closed 2 years ago).
 
 - 💻 **Technical Skills:**
-  - JavaScript, TypeScript, React, Redux, HTML, CSS, Three.js
+  - JavaScript, TypeScript, React, HTML, CSS
   - Node.js
  
 - 🌍 **Languages:**
