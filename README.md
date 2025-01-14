@@ -6,14 +6,14 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
 
 ## 🚀 About Me
 
-- 🔭 **Currently:** Working at [GK Software](https://www.gk-software.com) as a Software Developer.
-  - Developing a **Language Server** from scratch, providing real-time code intelligence such as conditional auto-completion using **TypeScript** and **Node.js**.
+- 🔭 **Currently:** Open to Work.
   
 - 🌱 **Education:**
   - 🎓 Master of Computer Science (Westsächsischen Hochschule Zwickau) | *Oct 2021 - Jan 2025*
   - 🎓 Bachelor of Software Engineering (American University of Central Asia) | *Sep 2016 - May 2020*
 
 - 💼 **Past Projects:**
+  - At [GK Software](https://www.gk-software.com) as a Software Developer. Developed a **Language Server** from scratch, providing real-time code intelligence such as conditional   auto-completion using **TypeScript** and **Node.js**.
   - Contributed to the development of a university web application for the Faculty of Mechanical Engineering at WHZ.
   - Developed the frontend for a financial platform **EQMIS** at [Fortylines.io](https://fortylines.io).
   - Built the website for a charitable foundation: [enebalagatirek.org](https://www.enebalagatirek.org).
@@ -27,7 +27,6 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
 - 🌍 **Languages:**
   - English: Advanced
   - Russian: Native
-  - German: Intermediate 
 
 ### 📝 Additional info
 > Besides coding, I’m deeply intrigued by the future of **Web3**, **cryptocurrency**, and **forex market**. I'm always on the lookout for new technologies that disrupt traditional systems.
