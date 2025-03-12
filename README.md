@@ -22,7 +22,9 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
 
 - 💻 **Technical Skills:**
   - JavaScript, TypeScript
-  - Nest.js
+  - Node.js, Express.js, Nest.js
+  - Docker, Git
+  - PostgreSQL
  
 - 🌍 **Languages:**
   - English: Advanced
