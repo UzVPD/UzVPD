@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
   - Developed the frontend for a financial platform **EQMIS** at [Grand Systems](https://www.linkedin.com/company/grand-systems/) (ex Fortylines.io).
   - Built the website for a charitable foundation: [enebalagatirek.org](https://www.enebalagatirek.org).
   - Supported and integrated new features on the backend of Gazprom CRM (Kyrgyzstan) in [Askartec](https://askartec.com/).
-  - In 2018 contribute to an online PvP mobile game on Unity [WarCars2](https://www.youtube.com/watch?v=wBhqHONNd2Y) (Project was closed 2 years ago).
+  - In 2018 contribute to an online PvP mobile game on Unity [WarCars2](https://www.youtube.com/watch?v=wBhqHONNd2Y) (AFAIK Project was closed in 2022).
 
 - 💻 **Technical Skills:**
   - JavaScript, TypeScript
