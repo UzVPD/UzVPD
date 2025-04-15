@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm a passionate software developer with a focus on buildi
 ---
 
 ## 🚀 About Me
-
-- 🔭 **Currently:** Open to Work.
   
 - 🌱 **Education:**
   - 🎓 Master of Computer Science (Westsächsischen Hochschule Zwickau) | *Oct 2021 - Jan 2025*
